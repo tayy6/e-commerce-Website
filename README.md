@@ -40,8 +40,7 @@
 
 ---
 
-## 📂 Folder Structure
-
+```plaintext
 touskie-ecommerce/
 ├── index.html
 ├── shop.html
@@ -51,13 +50,16 @@ touskie-ecommerce/
 ├── contact.html
 ├── cart.html
 ├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── script.js
-│ └── img/
-│ └── (all images)
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── img/
+│       └── (all images)
 └── README.md
+```
+
+---
 
 To run the website locally:
 
@@ -75,6 +77,7 @@ open index.html      # macOS
 
 ---
 
-👨‍💻 Author
-Taicir Cheikhrouhou
-📧 taicir.cheikhrouhou@enis.tn
+## 👨‍💻 Author
+
+**Taicir Cheikhrouhou**  
+📧 [taicir.cheikhrouhou@enis.tn](mailto:taicir.cheikhrouhou@enis.tn)
